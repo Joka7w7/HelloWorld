@@ -6,7 +6,7 @@ This project is a simple Hello World application developed using Python. It disp
 
 The purpose of creating this software is to practice writing, running, and organizing Python code while becoming more familiar with Visual Studio Code, Git, and GitHub. It is also a starting point for developing more complex applications and improving my problem-solving skills.
 
-[Software Demo Video](ADD_YOUR_YOUTUBE_VIDEO_LINK_HERE)
+[Software Demo Video](https://youtu.be/ls3cGFYgw5A)
 
 # Development Environment
 
